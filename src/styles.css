@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+* + h1 {
+  margin-top: 32px;
+}
+
+code {
+  font-weight: bold;
+}
